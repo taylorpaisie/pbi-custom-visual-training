@@ -1,0 +1,8 @@
+title: "Power BI Custom Visuals Training"
+description: "Hands-on workshop: build a custom Power BI visual with pbiviz"
+theme: jekyll-theme-cayman
+
+# Optional extras
+markdown: kramdown
+kramdown:
+  input: GFM
