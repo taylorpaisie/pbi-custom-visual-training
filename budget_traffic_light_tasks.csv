@@ -1,0 +1,9 @@
+Task,Budget,Expended,BurnRate
+TPS-001 - System Design,150000,60000,0.4
+TPS-002 - Modeling,200000,165000,0.83
+TPS-003 - Testing,120000,135000,1.12
+TPS-004 - Documentation,80000,30000,0.38
+TPS-005 - PM Support,100000,95000,0.95
+TPS-006 - Integration,180000,210000,1.17
+TPS-007 - Training,90000,72000,0.8
+TPS-008 - Sustainment,160000,155000,0.97
