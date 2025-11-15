@@ -1,0 +1,9 @@
+# Node / pbiviz stuff
+node_modules/
+dist/
+*.pbiviz
+npm-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
