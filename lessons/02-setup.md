@@ -1,3 +1,9 @@
+
+---
+
+## `lessons/02-setup.md`
+
+```markdown
 ---
 layout: default
 title: 02 – Environment Setup
@@ -5,20 +11,31 @@ title: 02 – Environment Setup
 
 # 02 – Environment Setup
 
-Before you start, make sure you have:
+Before we start writing code, we need to:
 
-1. **Power BI Desktop** (current version)  
-2. A **Power BI Pro or PPU account** (for developer features)  
-3. **Node.js LTS** (18 or 20) from [nodejs.org](https://nodejs.org/)  
-4. **Git** and **VS Code** (or your favorite editor)  
-5. The **Power BI visuals tools** (`pbiviz`) installed globally
+1. Install the Power BI visuals tools (`pbiviz`)  
+2. Verify Node.js and npm are working  
+3. Enable developer mode in Power BI Desktop  
+4. Create a working folder for the custom visual
+
+Once this is done, you’ll be ready for the lab in Lesson 03.
 
 ---
 
-## Install the Power BI visuals tools
+## Step 1 – Install Node.js and npm
 
-Open PowerShell (or any terminal) and run:
+If you already use Node.js for other projects, you can skip to Step 2.
+
+Otherwise:
+
+1. Go to the Node.js website and download the **LTS** installer for your OS.
+2. Run the installer and accept the defaults.
+3. Restart your terminal when done.
+
+Microsoft’s official environment setup docs recommend Node.js + npm as the base for Power BI visual development. :contentReference[oaicite:4]{index=4}  
+
+To verify in a terminal (PowerShell, Command Prompt, WSL, etc.):
 
 ```bash
-npm i -g powerbi-visuals-tools@latest
-pbiviz --version
+node -v
+npm -v
