@@ -23,6 +23,16 @@ In this lab, you’ll:
 
 ---
 
+> 💾 **Download demo data**
+>
+> The examples below assume you’re using one of these files from this repo:
+>
+> - [Vendor demo (CSV)](../examples/data/budget_traffic_light_demo.csv)
+> - [Task/TPS demo (CSV)](../examples/data/budget_traffic_light_tasks.csv)
+>
+> You can also open the CSVs in Excel and save them as `.xlsx` if you prefer.
+
+
 ## Step 1 – Scaffold the project
 
 In a working folder (e.g., `pbi-custom-visuals`):
