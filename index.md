@@ -25,6 +25,7 @@ By the end, you'll be able to:
 4. [Packaging and Importing](lessons/04-packaging.html)  
 5. [Next Steps & Resources](lessons/05-next-steps.html)
 6. [Troubleshooting Guide](lessons/06-troubleshooting.html)
+7. [Code Architecture & Organization Patterns](lessons/07-architecture-patterns.html)
 
 ## Additional Resources
 
