@@ -24,6 +24,11 @@ By the end, you'll be able to:
 3. [Lab: Budget Traffic Light Visual](lessons/03-lab-traffic-light.html)  
 4. [Packaging and Importing](lessons/04-packaging.html)  
 5. [Next Steps & Resources](lessons/05-next-steps.html)
+6. [Troubleshooting Guide](lessons/06-troubleshooting.html)
+
+## Additional Resources
+
+- [Demo Data Schema](examples/DATA_SCHEMA.html) - Information about sample datasets
 
 ---
 
